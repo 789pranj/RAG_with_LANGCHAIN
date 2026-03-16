@@ -1,0 +1,44 @@
+############################
+# LangChain Core Framework #
+############################
+langchain
+langchain-core
+langchain-community
+
+############################
+# Google Gemini Integration #
+############################
+langchain-google-genai
+google-generativeai
+google-ai-generativelanguage
+
+############################
+# Hugging Face Integration #
+############################
+langchain-huggingface
+transformers
+huggingface-hub
+
+############################
+# OpenAI Integration (optional) #
+############################
+langchain-openai
+openai
+
+############################
+# Anthropic (Claude) Integration #
+############################
+langchain-anthropic
+anthropic
+
+############################
+# Environment Management #
+############################
+python-dotenv
+
+############################
+# Machine Learning Utils  #
+############################
+numpy
+scikit-learn
+torch
