@@ -1,0 +1,7 @@
+retirvers
+    -Wekipedia
+    -Vector store
+    -Maximum marginal 
+    -MultiQuery 
+    -Contextual Compression
+    

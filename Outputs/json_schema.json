@@ -1,0 +1,25 @@
+{
+  "title": "Student",
+  "description": "Schema representation of a student profile including identity and contact information.",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Full name of the student.",
+      "example": "Pranjal"
+    },
+    "age": {
+      "type": "integer",
+      "description": "Age of the student (optional).",
+      "nullable": true,
+      "example": 21
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "description": "Valid email address of the student.",
+      "example": "abc@gmail.com"
+    }
+  },
+  "required": ["name", "email"]
+}
